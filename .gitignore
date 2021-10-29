@@ -1,0 +1,10 @@
+node_modules
+
+nodeexecutable-node12-win.exe
+nodeexecutable-node14-macos
+output.log
+dist
+daemon
+index.exe
+nodeexecutable
+.DS_Store
