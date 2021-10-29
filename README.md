@@ -10,5 +10,4 @@ npm link node-windows
 npm start
 ```
 
-requires node module to be installed globally
 
